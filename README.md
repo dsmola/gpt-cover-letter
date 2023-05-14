@@ -11,9 +11,8 @@ The best way to structure this is in JSON format. In fact, spending 30 minutes p
 Here's what you need to do:
 
 1) GPT-4 gives the best results, so make sure you have access to it.
-2) Put your biography in a JSON format (use a template [a relative link](cv_template.json)). This helps GPT understand the context better.
-3) Open ChatGPT and use this message ([a relative link](prompt.txt)) as a prompt. Wait for the first reply, then paste your CV in JSON format. Wait for a reply, and then paste the job description.
-4) The best place to do this is in the OpenAI playground, but not everyone may have access to GPT-4 there.
-5) Make adjustments to the final results.
+2) Put your biography in a JSON format ([use this template](cv_template.json)). This helps GPT understand the context better.
+3) Open ChatGPT and use [this message](prompt.txt) as a prompt. Wait for the first reply, then paste your CV in JSON format. Wait for a reply, and then paste the job description.
+4) Make adjustments to the final results.
 
 The cost of each letter will be around $0.1-$0.15 and 5-7 minutes of your time.
