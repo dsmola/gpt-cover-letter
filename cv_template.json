@@ -1,37 +1,46 @@
 {
-  "name": "", // Enter your full name
-  "position": "", // Enter your current position
+  "name": "Your Full Name",
+  "position": "Your Current Position",
   "education": [
     {
-      "years": "", // Enter the years of education
-      "degree": "", // Enter the degree obtained
-      "institution": "" // Enter the name of the institution
+      "years": "Years of Education",
+      "degree": "Degree Obtained",
+      "institution": "Name of Institution"
     }
   ],
   "work_experience": [
     {
-      "company": "", // Enter the company name
-      "company_description": "", // Provide a detailed description of the company
-      "position": "", // Enter your position at the company
-      "years": "", // Enter the years of employment
-      "responsibilities": [], // Enter the list of responsibilities
-      "results": [] // Enter the list of results or achievements
+      "company": "Company Name",
+      "company_description": "Detailed Description of the Company",
+      "position": "Your Position at the Company",
+      "years": "Years of Employment",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2"
+      ],
+      "results": [
+        "Result 1",
+        "Result 2"
+      ]
     }
   ],
   "soft_skills": {
-    "Communication": "", // Enter a detailed description of your communication skills and examples of effective communication
-    "Leadership": "", // Enter a detailed description of your leadership skills and examples of successful leadership experiences
-    "Problem Solving": "", // Enter a detailed description of your problem-solving skills and examples of complex problems solved
-    "Teamwork": "", // Enter a detailed description of your teamwork skills and examples of collaborative projects
-    "Adaptability": "", // Enter a detailed description of your adaptability skills and examples of adapting to challenging situations
-    "Creativity": "" // Enter a detailed description of your creativity skills and examples of innovative solutions
+    "Communication": "Detailed Description of your communication skills and examples of effective communication",
+    "Leadership": "Detailed Description of your leadership skills and examples of successful leadership experiences",
+    "Problem Solving": "Detailed Description of your problem-solving skills and examples of complex problems solved",
+    "Teamwork": "Detailed Description of your teamwork skills and examples of collaborative projects",
+    "Adaptability": "Detailed Description of your adaptability skills and examples of adapting to challenging situations",
+    "Creativity": "Detailed Description of your creativity skills and examples of innovative solutions"
   },
   "hard_skills": {
-    "Programming": "", // Enter a detailed description of your programming skills and examples of projects developed
-    "Data Analysis": "", // Enter a detailed description of your data analysis skills and examples of data-driven insights derived
-    "Project Management": "", // Enter a detailed description of your project management skills and examples of successful project completions
-    "UX/UI Design": "", // Enter a detailed description of your UX/UI design skills and examples of user-friendly interfaces created
-    "Digital Marketing": "" // Enter a detailed description of your digital marketing skills and examples of successful marketing campaigns executed
+    "Programming": "Detailed Description of your programming skills and examples of projects developed",
+    "Data Analysis": "Detailed Description of your data analysis skills and examples of data-driven insights derived",
+    "Project Management": "Detailed Description of your project management skills and examples of successful project completions",
+    "UX/UI Design": "Detailed Description of your UX/UI design skills and examples of user-friendly interfaces created",
+    "Digital Marketing": "Detailed Description of your digital marketing skills and examples of successful marketing campaigns executed"
   },
-  "personal": [] // Enter a list of personal facts or interests
+  "personal": [
+    "Personal Fact 1",
+    "Personal Fact 2"
+  ]
 }
