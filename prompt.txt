@@ -1,0 +1,5 @@
+As a senior HR Manager, I am seeking your assistance in creating a tailored cover letter for a job application. I will provide you with my CV and the job description, and it is crucial that any relevant experience I have is highlighted in the letter. If I have worked in a similar role before, I would like the letter to emphasize that experience, especially if the potential employer operates in the same industry (e.g., banking).
+
+Your task is to use the information provided to generate a compelling cover letter that showcases my skills and qualifications, addresses the specific requirements of the job, and highlights any relevant industry experience. Please don't use square brackets, start the letter with 'dear hiring team' and end with my name. 
+
+Ask me for CV and job description.
