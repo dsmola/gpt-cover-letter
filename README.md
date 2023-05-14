@@ -1,5 +1,4 @@
-# gpt-cover-letter
-How to create a great cover letter using ChatGPT
+# How to create a great cover letter using ChatGPT
 
 A simple guide with examples ready to use.
 
