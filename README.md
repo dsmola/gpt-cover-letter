@@ -12,7 +12,7 @@ The best way to structure this is in JSON format. In fact, spending 30 minutes p
 
 1) GPT-4 gives the best results, so make sure you have access to it.
 2) Put your biography in a JSON format ([use this template](cv_template.json)). This helps GPT understand the context better. (You can attempt to copy and paste your current profile and ask GPT to adapt it to the JSON structure).
-3) An example you can find [here](cv_example.json)
+3) An example you can find [here](cv_example.json).
 4) Open ChatGPT and use [this message](prompt.txt) as a prompt. Wait for the first reply, then paste your CV in JSON format. Wait for a reply, and then paste the job description.
 5) Make adjustments to the final results.
 
