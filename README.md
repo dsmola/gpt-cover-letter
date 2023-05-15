@@ -24,4 +24,4 @@ The cost of each letter will be around $0.1-$0.15 and 5-7 minutes of your time.
 
 ## Feedback
 Feel free to contribute, commit, and share your tips.
-Drop me a message on [LinkedIn](https://www.linkedin.com/in/dmitry-smola/) and let's connect.
+Drop me a message on [LinkedIn](https://www.linkedin.com/in/dmitry-smola/) and let's connect, if you found this useful. 
